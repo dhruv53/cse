@@ -39,7 +39,7 @@ The dataset described below was created during a run using 1024 GPU nodes. This 
 
 The data provided shows performance timing of the render application, performance of the GPU card, and details of which part of the image was being rendered in each task.
 
-The data files are accessible [here](https://newcastle-my.sharepoint.com/:f:/g/personal/nmf47_newcastle_ac_uk/EokX5ELIaCBGnhekrtX-7CwBFNpY8tgmQAcLuLclYMX-RA?e=aEKUih).
+The data files are accessible [here](https://newcastle-my.sharepoint.com/:f:/g/personal/nmf47_newcastle_ac_uk/EokX5ELIaCBGnhekrtX-7CwBy-9Be0Ot5TFeHLOms1FRsg?e=Gey3bX).
 
 ## application-checkpoints.csv (111.2MB)
 
@@ -190,8 +190,6 @@ Example:
 ---
 
 ## task-x-y.csv (6.2MB)
-
-https://newcastle-my.sharepoint.com/:x:/g/personal/nmf47_newcastle_ac_uk/EcQ19ys-zChNsDYzwcnjeO4Bdt4sRz-PsGsDuoCAkhG3Ig?e=SKdTNM
 
 This file contains the x,y co-ordinates of which part the image was being rendered for each task.
 
