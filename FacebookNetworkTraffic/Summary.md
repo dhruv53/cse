@@ -58,12 +58,17 @@ After decompressing each archive (or a subset of these), the text file is in tsv
 
 - timestamp
 - packet length (1)
-- anonymized(2) src/dst IP
-- anonymized src/dst L4 Port
+- anonymized(2) source (src) IP
+- anonymized(2) destination (dst) IP
+- anonymized source (src) L4 Port
+- anonymized destination (dst) L4 Port
 - IP protocol
-- anonymized src/dst hostprefix (3)
-- anonymized src/dst Rack
-- anonymized src/dst Pod
+- anonymized source (src) hostprefix (3)
+- anonymized destination (dst) hostprefix (3)
+- anonymized source (src) Rack
+- anonymized destination (dst) Rack
+- anonymized source (src) Pod
+- anonymized destination (dst) Pod
 - intercluster
 - interdatacenter
 
