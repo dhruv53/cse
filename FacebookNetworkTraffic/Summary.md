@@ -41,7 +41,7 @@ https://newcastle-my.sharepoint.com/:f:/g/personal/nmf47_newcastle_ac_uk/Eo3L7lp
 
 The data consists raw fbflow samples from 3 of Facebook's production clusters. 
 - **Cluster-A** is for Database, 
-- **Cluster-B** is for Web servers, - if you would like access to Cluster B, you can obtain these directly from https://www.facebook.com/network-analytics
+- **Cluster-B** is for Web servers, - if you would like access to Cluster B, you can obtain these directly from https://www.facebook.com/network-analytics. To access this link you will need to join and be approved by the group https://www.facebook.com/groups/1144031739005495/.
 - **Cluster-C** is used as Hadoop servers.
 
 All three clusters are from Facebook's [Altoona Data Center](https://www.facebook.com/AltoonaDataCenter/?ref=gs&__tn__=%2CdK-R-R&eid=ARBSAPg5oE2dLOuRqp5AGll5KLifuBqtJ8Dv1SyMzCWWn2dx5O-sA10Tecj9MzlnFVJMDxV2-1zFh2ij&fref=gs&dti=1144031739005495&hc_location=group). You can find more details about the datacenter topology in https://code.facebook.com/posts/360346274145943/.
